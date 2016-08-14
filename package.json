@@ -1,0 +1,11 @@
+{
+    "name": "car_box_fake_server",
+    "version": "0.0.1",
+    "dependencies": {
+        "httpdispatcher": "*",
+        "querystring": "*"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
